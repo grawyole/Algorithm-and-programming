@@ -1,0 +1,18 @@
+https://drive.google.com/file/d/1IZCrYhYsAtWY5-KpPNs4kD7-YNsKOh3D/view?usp=sharing
+
+ПОЧАТОК
+  ВВЕСТИ n
+  sum ← 0
+  ДЛЯ i ВІД 1 ДО n ВИКОНУВАТИ
+    sum ← sum + 1 / i
+  ВСЕ
+  ВИВЕСТИ sum
+КІНЕЦЬ
+
+Крок	i	sum	i <= n
+0	1	0	так
+1	2	1	так
+2	3	1.5	так
+3	4	1.8333	так
+4	5	2.0833	так
+5	6	2.2833	ні

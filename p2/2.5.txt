@@ -1,0 +1,11 @@
+https://drive.google.com/file/d/117dUDo4U4xs_Mj6U89bXQzDalI5FPux1/view?usp=sharing
+
+ПОЧАТОК
+  ВВЕСТИ n
+  k ← 0
+  ПОВТОРЮВАТИ
+    n ← n DIV 10
+    k ← k + 1
+  ДОКИ n = 0
+  ВИВЕСТИ k
+КІНЕЦЬ

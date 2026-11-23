@@ -1,0 +1,20 @@
+https://drive.google.com/file/d/1UHFu1UdbPoM0B0PH-Sd4CCtsdzyfkSBC/view?usp=sharing
+
+ПОЧАТОК
+  ВВЕСТИ a, b, c
+  max ← a
+
+  ЯКЩО b > max ТО
+    max ← b
+  ВСЕ
+
+  ЯКЩО c > max ТО
+    max ← c
+  ВСЕ
+
+  ВИВЕСТИ max
+КІНЕЦЬ
+
+Крок	a	b	c	max	b > max   c > max
+0	5	9	2	5	так	    —
+1	5	9	2	9	—	    ні

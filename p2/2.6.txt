@@ -1,0 +1,20 @@
+https://drive.google.com/file/d/1ywC4_QNM0B0ctzUlwrM6ajNSVTfyVlSW/view?usp=sharing
+
+ПОЧАТОК
+  ВВЕСТИ a, n
+  p ← 1
+  i ← 1
+  ПОКИ i ≤ n ВИКОНУВАТИ
+    p ← p * a
+    i ← i + 1
+  ВСЕ
+  ВИВЕСТИ p
+КІНЕЦЬ
+
+Крок i a p i <= n
+     0 1 2 1 так
+     1 2 2 2 так
+     2 3 2 4 так
+     3 4 2 8 так
+     4 5 2 16 так
+     5 6 2 32 ні
