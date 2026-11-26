@@ -1,4 +1,4 @@
-s = "абракадабра"
+s = input("Введіть рядок: ")
 
 filtered = [c for c in s if c != " "]
 m_c = max(set(filtered), key=filtered.count) if filtered else ""

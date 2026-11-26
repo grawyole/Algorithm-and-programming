@@ -1,4 +1,4 @@
-text = "програма"
+text = input("введіть рядок: ")
 
 size = len(text)
 head = text[0] if size > 0 else ""

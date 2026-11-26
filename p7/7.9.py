@@ -1,4 +1,4 @@
-s = "Hello, World!"
+s = input("Введіть рядок: ")
 k = 3
 
 result = ""

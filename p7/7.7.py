@@ -1,8 +1,8 @@
-s = "тел. 380-67-123"
+s = input("Введіть числа в рядок: ")
 
 result = ""
 count = 0
-for ch in s:
+for ch in str(s):
     if ch in "0123456789":
         result = result + "#"
         count += 1
